@@ -190,3 +190,9 @@ footer{
     color: aliceblue;
     text-align: center;
 }
+
+/* content */
+.content{
+    width: 100%;
+    color: white;
+}
